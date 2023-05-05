@@ -110,14 +110,14 @@ class DatabaseSeeder extends Seeder
         ]);
 
         User::create([
-            'name' => 'Nangskii',
+            'name' => 'Mr. Vico Lomar',
             'level' => 'Gold Level',
             'stars' => 200,
             'colorcode' => '#C6A961'
         ]);
 
         User::create([
-            'name' => 'Capyy',
+            'name' => 'Ms. Fei Fei Li',
             'level' => 'Green Level',
             'stars' => 1,
             'colorcode' => '#006F42'
